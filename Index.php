@@ -11,6 +11,7 @@
 <body>
     <header style="background-color: skyblue;">
     <center>
+        <h1>Hola esto es una prueba</h1>
         <h1>Convertidor de Monedas</h1>
     </center>
     </header>
